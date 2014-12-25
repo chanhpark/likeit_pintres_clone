@@ -1,5 +1,8 @@
 source 'https://rubygems.org'
 
+
+gem 'paperclip', '~> 4.2.1'
+gem 'cocaine', '~> 0.5.3'
 gem 'haml', '~> 4.0.5'
 gem 'devise', '~> 3.3.0'
 gem 'bootstrap-sass', '~> 3.2.0.2'
